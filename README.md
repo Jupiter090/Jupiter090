@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h3 align="center">A programmator, student, app dev.</h3>
 
 - 🌱 I’m currently learning **.NET**
